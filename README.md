@@ -42,4 +42,4 @@ To run the project, open the Jupyter notebook `traveling_ethiopia_search_problem
 - Figure 3: Traveling Ethiopia (Heuristic and Backward Cost Graph)
 - Figure 4: Adversary Traveling Ethiopia
 
-#The End
+# The End
